@@ -18,11 +18,9 @@ button, summary {
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
+	--color-text:white;
 	--color-background:#eee;
 }
-
-
 
 
 
@@ -30,10 +28,50 @@ button, summary {
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
-
-body {
-  color:var(--color-text);
-  background-color:var(--color-background);
+@font-face {
+	font-family: 'bebasnue';
+	src: url('../fonts/BebasNeue-Regular.ttf');
+	font-weight: bold;
+	font-style: normal;
 }
 
+header img {
+	width: 5em;
+}
+
+h1 {
+	color:white;
+}
+
+h2 {
+	color:white;
+}
+body{
+	background-color: #111;
+	font-family: 'bebasnue';
+}
+
+main img {
+	width: 100%;
+
+}
+
+section ul{
+	display: flex;
+	align-items: center;
+	gap: .15em;
+	margin: 0 .5em 0 .5em;
+	padding: 0;
+	overflow: scroll;
+	list-style-type: none;
+}
+
+section ul img{
+width: 9em;
+}
+
+video {
+	position: relative;
+    width: 100%;
+    height: auto;
+}
