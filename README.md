@@ -229,9 +229,9 @@ https://www.netflix.com/browse?jbv=60020686
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Agnes heeft een navigatie gemaakt en een hamburger menu. Agnes heeft de decoratieve pijltje nu toegevoegd met css en niet html.
+  - Koelsoem heeft haar home scherm bijna afgemaakt behalve haar header. Ze moet de films ook laten inzoomen als ze erop hovert. Ze wilt nu een hamburger menu maken. 
+  - Sohil moet zijn header nu fixen met positions en 
   - ...
 
 </details>
